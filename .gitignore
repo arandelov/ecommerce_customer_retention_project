@@ -11,3 +11,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# CatBoost
+catboost_info/
+
+# Python cache
+__pycache__/
+*.pyc
